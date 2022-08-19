@@ -5,7 +5,13 @@
     Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji,
     Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
 }
-
+.load{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  height: 80vh;
+}
 /* Chats Page */
 
 .chats-page {
